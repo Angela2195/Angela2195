@@ -1,10 +1,16 @@
+<div align="center">
+
 # Angela Nedopekina
 
 ### Mobile App Analytics ¬∑ Search & User Growth Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
 
+</div>
+
 ---
+
+<div align="center">
 
 I turn product, user, and search data into actionable insights that support better product decisions and measurable growth.
 
@@ -23,9 +29,10 @@ I enjoy working at the intersection of **data, product, and machine learning** ‚
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
 
-### Data Manipulation & Analytics
+### Data Transofrmation & Analytics
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)](https://www.getdbt.com/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -52,6 +59,8 @@ I enjoy working at the intersection of **data, product, and machine learning** ‚
 
 ## Domain Expertise
 
+</div>
+
 | Domain | What I Work On |
 |---|---|
 | **Mobile App Analytics** | User behavior analysis, engagement, retention, funnels, cohorts, feature performance, and product KPIs |
@@ -60,6 +69,8 @@ I enjoy working at the intersection of **data, product, and machine learning** ‚
 | **Product Analytics** | Product KPIs, user journeys, behavioral patterns, feature adoption, experimentation, and data-driven product decisions |
 | **Data Science & ML** | Predictive modeling, classification, regression, clustering, feature engineering, model evaluation, and applied machine learning |
 | **Business Intelligence** | Analytical reporting, dashboards, KPI frameworks, visualization, and communicating insights to stakeholders |
+
+<div align="center">
 
 ---
 
@@ -71,3 +82,5 @@ I enjoy working at the intersection of **data, product, and machine learning** ‚
 - üß† Machine Learning & Applied AI
 - üìà User Behavior & Growth Modeling
 - üõ†Ô∏è Data Products & ML Deployment
+
+</div>
