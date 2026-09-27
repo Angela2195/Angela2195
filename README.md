@@ -4,7 +4,7 @@
 
 ### Senior Data Analyst · App Analytics · Search & User Growth · Analytics Optimization with AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelanedopekina/) 
 </div>
 
 ---
