@@ -1,8 +1,8 @@
 <div align="center">
 
-<span style="font-family: Georgia;"># Angela Nedopekina
+# Angela Nedopekina
 
-<h2>### Senior Data Analyst · Mobile App Analytics · Search & User Growth Analytics · Analytics Optimization with AI</h2>
+### Senior Data Analyst · Mobile App Analytics · Search & User Growth Analytics · Analytics Optimization with AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
 
@@ -71,16 +71,3 @@ I enjoy working at the intersection of **data, product, and machine learning** �
 | **Business Intelligence** | Analytical reporting, dashboards, KPI frameworks, visualization, and communicating insights to stakeholders |
 
 <div align="center">
-
----
-
-## Areas of Interest
-
-- 📱 Mobile & Product Analytics
-- 🔎 Search & User Growth Analytics
-- 📊 Experimentation & Statistical Analysis
-- 🧠 Machine Learning & Applied AI
-- 📈 User Behavior & Growth Modeling
-- 🛠️ Data Products & ML Deployment
-
-</div>
