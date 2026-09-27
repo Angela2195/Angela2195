@@ -1,8 +1,8 @@
 <div align="center">
 
-# Angela Nedopekina
+<span style="font-family: Georgia;"># Angela Nedopekina
 
-### Senior Data Analyst · Mobile App Analytics · Search & User Growth Analytics · Analytics Optimization with AI
+<h2>### Senior Data Analyst · Mobile App Analytics · Search & User Growth Analytics · Analytics Optimization with AI</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
 
