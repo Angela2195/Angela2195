@@ -2,7 +2,7 @@
 
 ## Angela Nedopekina
 
-### Senior Data Analyst · Mobile App Analytics · Search & User Growth Analytics · Analytics Optimization with AI
+### Senior Data Analyst · App Analytics · Search & User Growth · Analytics Optimization with AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/) 
 </div>
@@ -29,8 +29,9 @@ I enjoy working at the intersection of **data, product, and machine learning** �
 
 **Data Transofrmation & Analytics**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)](https://www.getdbt.com/)
+[![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat&logo=googleanalytics&logoColor=white)](https://analytics.google.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
