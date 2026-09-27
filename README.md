@@ -2,7 +2,7 @@
 
 # Angela Nedopekina
 
-### Mobile App Analytics · Search & User Growth Analytics
+### Senior Data Analyst · Mobile App Analytics · Search & User Growth Analytics · Analytics Optimization with AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
 
